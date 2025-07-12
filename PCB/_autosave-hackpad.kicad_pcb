@@ -72,9 +72,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 0)
+			(drillshape 1)
 			(scaleselection 1)
-			(outputdirectory "../Production/")
+			(outputdirectory "")
 		)
 	)
 	(net 0 "")
@@ -2711,7 +2711,7 @@
 		)
 	)
 	(gr_rect
-		(start 109.5375 23.8125)
+		(start 109.5375 26.19375)
 		(end 171.45 64.29375)
 		(stroke
 			(width 0.05)
